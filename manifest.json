@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Aryan",
     "description": "",
-    "start_url": "index.html",
+    "start_url": "/Lab8_Starter/",
     "display": "standalone",
     "background_color": "blue",
     "theme_color": "green",
